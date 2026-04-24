@@ -1,0 +1,7 @@
+Drop your PROFILE / ABOUT photo here.
+Supported formats: .jpg, .jpeg, .png, .webp
+
+This appears on the About page as your photographer portrait.
+Recommended: portrait orientation (e.g. 800x1000px)
+
+Name it exactly: profile.jpg  (or profile.png / profile.webp)

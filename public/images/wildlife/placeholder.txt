@@ -1,0 +1,9 @@
+Drop your WILDLIFE photos here.
+Supported formats: .jpg, .jpeg, .png, .webp
+
+These appear in the Portfolio → Wildlife gallery.
+
+Examples:
+  wildlife-1.jpg
+  lion.jpg
+  eagle-flight.jpg

@@ -1,0 +1,9 @@
+Drop your LANDSCAPE photos here.
+Supported formats: .jpg, .jpeg, .png, .webp
+
+These appear in the Portfolio → Landscape gallery.
+
+Examples:
+  landscape-1.jpg
+  landscape-2.jpg
+  mountain-sunrise.jpg

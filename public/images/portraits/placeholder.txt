@@ -1,0 +1,8 @@
+Drop your PORTRAIT photos here.
+Supported formats: .jpg, .jpeg, .png, .webp
+
+These appear in the Portfolio → Portraits gallery.
+
+Examples:
+  portrait-1.jpg
+  portrait-2.jpg

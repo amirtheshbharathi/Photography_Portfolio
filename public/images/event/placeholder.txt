@@ -1,0 +1,9 @@
+Drop your EVENT photos here.
+Supported formats: .jpg, .jpeg, .png, .webp
+
+These appear in the Portfolio → Event gallery.
+
+Examples:
+  event-1.jpg
+  wedding.jpg
+  concert.jpg
