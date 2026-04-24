@@ -2,7 +2,10 @@ import { useState } from 'react';
 import { Mail, MapPin, Phone, Send, CheckCircle, AlertCircle, Loader } from 'lucide-react';
 
 const OWNER_EMAIL = 'amirtheshbharathi29@gmail.com';
-const API_URL = 'http://localhost:3001/api/contact';
+// Works locally (Express) and on Netlify (serverless function)
+const API_URL = import.meta.env.DEV
+  ? 'http://localhost:3001/api/contact'
+  : '/api/contact';
 
 export default function Contact() {
   const [form, setForm]           = useState({ name: '', email: '', subject: '', message: '' });
